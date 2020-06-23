@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">信用シミュレーター</string>
+    <string name="str_txt_lbl_entidad">エンティティ：</string>
+    <string name="str_txt_lbl_valor">値：$</string>
+    <string name="str_txt_lbl_plazo">期間（月）：</string>
+    <string name="str_hint_name">お名前</string>
+    <string name="str_hint_entidad">エンティティ</string>
+    <string name="str_hint_valor">価値</string>
+    <string name="str_hint_plazo">期間（月）</string>
+    <string name="str_title_new_credit">新しいクレジット</string>
+    <string name="str_msg_new_credit">値を入力</string>
+    <string name="str_save">保存する</string>
+    <string name="str_cancel">キャンセルする</string>
+    <string name="str_error_field">必須フィールド</string>
+    <string name="str_btn_guardar">保存する</string>
+    <string name="str_btn_cancelar">キャンセルする</string>
+    <string name="str_txt_lbl_tasa">レート：％</string>
+    <string name="str_edt_tasa">レート</string>
+    <string name="str_hint_tasa">レート</string>
+    <string name="str_txt_nro_cuota">#</string>
+    <string name="str_txt_a_capital">A.資本</string>
+    <string name="str_txt_a_interes">A.興味</string>
+    <string name="str_txt_saldo">バランス</string>
+    <string name="str_txt_lbl_cuota">料金：$</string>
+    <string name="str_txt_no_credit">クレジットなし</string>
+    <string name="str_insert_credit_ok">成功時にクレジットが追加されました。</string>
+    <string name="str_txt_lbl_total">合計：$</string>
+    <string name="str_menu_delete">取り除く</string>
+    <string name="str_btn_aceptar">受け入れる</string>
+    <string name="str_title_delete_credit">クレジットを削除しますか？</string>
+
+    <string name="str_variable_recalc">計算する</string>
+    <string name="str_hint_cuota">料金：$</string>
+
+
+    <!-- id test -->
+    <!--
+     <string name="str_id_banner_main" >ca-app-pub-3940256099942544/6300978111</string>
+     <string name="str_id_banner_detail" >ca-app-pub-3940256099942544/6300978111</string>
+     <string name="str_id_intersitial" >ca-app-pub-3940256099942544/1033173712</string>
+     <string name="str_id_app_admob" >ca-app-pub-3940256099942544~3347511713</string>
+ -->
+    <!-- id prod -->
+
+    <string name="str_id_banner_main" >ca-app-pub-9724478137720633/4968571987</string>
+    <string name="str_id_banner_detail" >ca-app-pub-9724478137720633/6036388878</string>
+    <string name="str_id_intersitial" >ca-app-pub-9724478137720633/6148069513</string>
+    <string name="str_id_app_admob" >ca-app-pub-9724478137720633~7575867102</string>
+
+</resources>

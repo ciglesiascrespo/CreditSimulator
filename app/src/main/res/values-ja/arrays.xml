@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_array_spinner">
+        <item>選択する</item>
+        <item>期間</item>
+        <item>共有</item>
+    </string-array>
+</resources>
+
+
+

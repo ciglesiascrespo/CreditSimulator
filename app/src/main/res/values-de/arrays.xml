@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_array_spinner">
+        <item>Wählen</item>
+        <item>Begriff</item>
+        <item>Aktie</item>
+    </string-array>
+</resources>
+
+
+
+

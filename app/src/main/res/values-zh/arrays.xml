@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_array_spinner">
+        <item>选择</item>
+        <item>术语</item>
+        <item>分享</item>
+    </string-array>
+</resources>
+
+
+

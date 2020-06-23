@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="str_array_spinner">
+        <item>Seleccione</item>
+        <item>Plazo</item>
+        <item>Cuota</item>
+    </string-array>
+</resources>

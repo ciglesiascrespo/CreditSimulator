@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simulador de crédito</string>
+    <string name="str_txt_lbl_entidad">Entidad:</string>
+    <string name="str_txt_lbl_valor">Valor: $</string>
+    <string name="str_txt_lbl_plazo">Plazo (meses):</string>
+    <string name="str_hint_name">Nombre</string>
+    <string name="str_hint_entidad">Entidad</string>
+    <string name="str_hint_valor">Valor</string>
+    <string name="str_hint_plazo">Plazo (meses)</string>
+    <string name="str_title_new_credit">Nuevo crédito</string>
+    <string name="str_msg_new_credit">Ingresar valores</string>
+    <string name="str_save">Guardar</string>
+    <string name="str_cancel">Cancelar</string>
+    <string name="str_error_field">Campo obligatorio</string>
+    <string name="str_btn_guardar">Guardar</string>
+    <string name="str_btn_cancelar">Cancelar</string>
+    <string name="str_txt_lbl_tasa">Tasa:%</string>
+    <string name="str_edt_tasa">Tasa</string>
+    <string name="str_hint_tasa">Tasa</string>
+    <string name="str_txt_nro_cuota">#</string>
+    <string name="str_txt_a_capital">Capital</string>
+    <string name="str_txt_a_interes">Interés</string>
+    <string name="str_txt_saldo">Saldo</string>
+    <string name="str_txt_lbl_cuota">Cuota: $</string>
+    <string name="str_txt_no_credit">Sin créditos</string>
+    <string name="str_insert_credit_ok">Crédito agregado con éxito.</string>
+    <string name="str_txt_lbl_total">Total: $</string>
+    <string name="str_menu_delete">Eliminar</string>
+    <string name="str_btn_aceptar">Aceptar</string>
+    <string name="str_title_delete_credit">¿Quieres eliminar el crédito?</string>
+
+
+    <string name="str_variable_recalc">Calcular</string>
+    <string name="str_hint_cuota">Cuota: $</string>
+
+
+    <!-- id test -->
+    <!--
+     <string name="str_id_banner_main" >ca-app-pub-3940256099942544/6300978111</string>
+     <string name="str_id_banner_detail" >ca-app-pub-3940256099942544/6300978111</string>
+     <string name="str_id_intersitial" >ca-app-pub-3940256099942544/1033173712</string>
+     <string name="str_id_app_admob" >ca-app-pub-3940256099942544~3347511713</string>
+ -->
+    <!-- id prod -->
+
+    <string name="str_id_banner_main" >ca-app-pub-9724478137720633/4968571987</string>
+    <string name="str_id_banner_detail" >ca-app-pub-9724478137720633/6036388878</string>
+    <string name="str_id_intersitial" >ca-app-pub-9724478137720633/6148069513</string>
+    <string name="str_id_app_admob" >ca-app-pub-9724478137720633~7575867102</string>
+</resources>

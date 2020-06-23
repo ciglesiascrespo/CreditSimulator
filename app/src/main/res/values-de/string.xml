@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kreditsimulator</string>
+    <string name="str_txt_lbl_entidad">Entität:</string>
+    <string name="str_txt_lbl_valor">Wert: $</string>
+    <string name="str_txt_lbl_plazo">Laufzeit (Monate):</string>
+    <string name="str_hint_name">Name</string>
+    <string name="str_hint_entidad">Entität</string>
+    <string name="str_hint_valor">Wert</string>
+    <string name="str_hint_plazo">Laufzeit (Monate)</string>
+    <string name="str_title_new_credit">Neuer Kredit</string>
+    <string name="str_msg_new_credit">Werte eingeben</string>
+    <string name="str_save">speichern</string>
+    <string name="str_cancel">Abbrechen</string>
+    <string name="str_error_field">Obligatorisches Feld</string>
+    <string name="str_btn_guardar">speichern</string>
+    <string name="str_btn_cancelar">Abbrechen</string>
+    <string name="str_txt_lbl_tasa">Rate:%</string>
+    <string name="str_edt_tasa">Bewerten</string>
+    <string name="str_hint_tasa">Bewerten</string>
+    <string name="str_txt_nro_cuota">#</string>
+    <string name="str_txt_a_capital">A. Kapital</string>
+    <string name="str_txt_a_interes">A. Interesse</string>
+    <string name="str_txt_saldo">Balance</string>
+    <string name="str_txt_lbl_cuota">Gebühr: $</string>
+    <string name="str_txt_no_credit">Keine Credits</string>
+    <string name="str_insert_credit_ok">Gutschrift mit Erfolg hinzugefügt.</string>
+    <string name="str_txt_lbl_total">Gesamt: $</string>
+    <string name="str_menu_delete">Entfernen</string>
+    <string name="str_btn_aceptar">Zu akzeptieren</string>
+    <string name="str_title_delete_credit">Möchten Sie den Kredit beseitigen?</string>
+
+    <string name="str_variable_recalc">Berechnung</string>
+    <string name="str_hint_cuota">Gebühr: $</string>
+
+
+    <!-- id test -->
+    <!--
+     <string name="str_id_banner_main" >ca-app-pub-3940256099942544/6300978111</string>
+     <string name="str_id_banner_detail" >ca-app-pub-3940256099942544/6300978111</string>
+     <string name="str_id_intersitial" >ca-app-pub-3940256099942544/1033173712</string>
+     <string name="str_id_app_admob" >ca-app-pub-3940256099942544~3347511713</string>
+ -->
+    <!-- id prod -->
+
+    <string name="str_id_banner_main" >ca-app-pub-9724478137720633/4968571987</string>
+    <string name="str_id_banner_detail" >ca-app-pub-9724478137720633/6036388878</string>
+    <string name="str_id_intersitial" >ca-app-pub-9724478137720633/6148069513</string>
+    <string name="str_id_app_admob" >ca-app-pub-9724478137720633~7575867102</string>
+
+
+</resources>
